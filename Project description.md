@@ -8,7 +8,7 @@ The dataset contains listings of different areas in Montreal during 2019. It com
 
 Enjoy!
 
-Tasks:
+## Tasks:
 
 ✔️ Meme competition:
 Include/find a MEME that you liked related to data science/data mining/machine learning
@@ -36,7 +36,7 @@ Image inputs. Cover at least once a Dropout layer.
 Multi-modality learning. Cover at least once a multi-modality (text+image) model.
 Multi-objective learning. Cover at least once a multi-objective model (predicting both price and type).
 
-✔️ Answer the questions below (briefly):
+## Answer the questions below (briefly):
 
 🌈Is fully-connected model a good one for sequential data? Why? How about for image data? Is it good? Why?
 
