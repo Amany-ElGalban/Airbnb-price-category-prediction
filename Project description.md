@@ -35,13 +35,18 @@ Image inputs. Cover at least once a Conv2d layer.
 Image inputs. Cover at least once a Dropout layer.
 Multi-modality learning. Cover at least once a multi-modality (text+image) model.
 Multi-objective learning. Cover at least once a multi-objective model (predicting both price and type).
+
 ✔️ Answer the questions below (briefly):
 
 🌈Is fully-connected model a good one for sequential data? Why? How about for image data? Is it good? Why?
+
 🌈What is gradient vanishing and gradient explosion, and how GRU/LSTM tries to mitigate this problem?
+
 🌈What is multi-objective/multi-task learning? What is multi-modality learning? How do you use them in this assignment?
+
 🌈What is the difference among xgboost, lightgbm and catboost
 
 Deliverable:
+
 🔥 A python notebook containing the documentation of how you reach the final design as well as the answers to the questions.
 
